@@ -37,7 +37,7 @@ static = ["clang-sys/static"]
 
 [dependencies]
 
-clang-sys = { git = "https://github.com/ptrstr/clang-sys", version = "1.6.1" }
+clang-sys = "1.7.0"
 libc = "0.2.39"
 
 [[test]]
